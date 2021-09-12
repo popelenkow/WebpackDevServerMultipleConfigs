@@ -1,0 +1,20 @@
+{
+	"name": "webpack-dev-server-multiple-config",
+	"version": "1.0.0",
+	"description": "webpack-dev-server multiple config",
+	"keywords": [],
+	"main": "src/index.tsx",
+	"scripts": {
+		"dev": "webpack-dev-server"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"copy-webpack-plugin": "9.0.1",
+		"ts-loader": "9.2.5",
+		"typescript": "4.4.3",
+		"webpack": "5.52.1",
+		"webpack-cli": "4.8.0",
+		"webpack-dev-server": "4.0.0-rc.1",
+		"webpack-merge": "5.8.0"
+	}
+}
